@@ -4,3 +4,5 @@
 2. After cloning, navigate to the the project folder in your terminal, for my case its *** cd frontend_ui ***
 3. run *** yarn *** command to install all packages
 4. after run *** yarn dev *** to open the app in browser
+
+### Also note its crucial to have metamask installed and you need to be logged in
